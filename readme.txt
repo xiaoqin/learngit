@@ -1,3 +1,4 @@
 for git learning only
-
-today is 2020-07-13
+Git is a destributed version control system.
+Git is free software
+2020-07-13
