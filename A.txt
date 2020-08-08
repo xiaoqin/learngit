@@ -2,3 +2,5 @@ my bug A
 bug 101
 bug 200
 bug 200 02
+bug 300-1
+bug 300-2
